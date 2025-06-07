@@ -74,7 +74,7 @@ uv sync
 
 MCP服务正常启动即可使用
 
-![MCP](.\screen_shot_mcp.png)
+![MCP](./screen_shot_mcp.png)
 
 
 
@@ -82,4 +82,4 @@ MCP服务正常启动即可使用
 
 直接使用MCP服务调用能力
 
-![生成音频和字幕](.\screen_shot00.png)
+![生成音频和字幕](./screen_shot00.png)
